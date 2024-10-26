@@ -44,7 +44,7 @@ class AppTest {
     
     @Test
     void testTwoDigitwithdifferentdiliminators() {
-        assertEquals(3, app.Add("//;\\n1;2"));
+        assertEquals(3, app.Add("//;\n1;2"));
     }
     
     @Test
