@@ -50,6 +50,6 @@ public final class App {
     public static void main(String[] args) {
         App app = new App();
        
-        System.out.println( app.Add("//;\\\\n1;2"));
+        System.out.println( app.Add("//;\n1;2"));
     }
 }
